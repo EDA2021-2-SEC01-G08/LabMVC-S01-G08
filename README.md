@@ -1,3 +1,7 @@
+Integrantes:
+- Paula Cecilia Daza Díaz - p.dazad@uniandes.edu.co - 202111276
+- Camilo Javier Ramos Hernández - cj.ramosh1@uniandes.edu.co - 202116748
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
